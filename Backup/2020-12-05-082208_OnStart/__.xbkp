@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.51</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette6=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=30.0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Light" visible="1"/>
+    <Element collapsed="0" type="model" name="Corners" visible="1"/>
+    <Element collapsed="0" type="model" name="Columns" visible="1"/>
+    <Element collapsed="0" type="model" name="Snow Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything Except Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="House Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="House Strands" visible="1"/>
+    <Element collapsed="0" type="model" name="House and Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrices" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Snow Trees and flakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree and Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree and Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Martices" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Corner" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Triple Arch Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Triple Arch left" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Ridge" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Corner" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Corner" visible="1"/>
+    <Element collapsed="0" type="model" name="Tune In" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Left" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowTree Right" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowTree Center" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowTree Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Left ridge" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Ridge" visible="1"/>
+    <Element collapsed="0" type="model" name="Left hip" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Hip" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Gutter Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Gutter Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Backlight Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Backlight Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Corner Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Corner right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Backlight Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Gutter Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Backlight Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Gutter Right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Corners">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Columns">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything Except Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Strands">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House and Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrices">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Trees and flakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree and Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree and Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Martices">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Corner">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triple Arch Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triple Arch left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Ridge">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Corner">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Corner">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tune In">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowTree Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowTree Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowTree Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left ridge">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Ridge">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left hip">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Hip">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Outer Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Inner Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Inner Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Outer Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Gutter Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Gutter Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Backlight Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Backlight Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Corner Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Corner right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Backlight Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Gutter Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Backlight Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Gutter Right">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" selected="1" startTime="100" endTime="30200" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

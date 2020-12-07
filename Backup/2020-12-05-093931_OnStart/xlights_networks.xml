@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-IRBDCPG" GlobalFPPProxy="">
+  <Controller Id="1" Name="Ethernet_Garage" Description="" Type="Ethernet" Vendor="Falcon" Model="F16V2R" Variant="No Expansion Boards" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="1" IP="192.168.1.51" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.51" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="7" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="8" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="9" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="10" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="11" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.51" BaudRate="12" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="11" Name="Ethernet_Porch" Description="Porch" Type="Ethernet" Vendor="Advatek" Model="PixLite 16 MkII" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="1" IP="192.168.1.71" Protocol="E131" FPPProxy="" Priority="100" Expanded="TRUE">
+    <network ComPort="192.168.1.71" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="7" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.71" BaudRate="8" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="19" Name="Ethernet_Addition" Description="" Type="Ethernet" Vendor="Falcon" Model="F16V2R" Variant="No Expansion Boards" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="1" IP="192.168.1.61" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.61" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.61" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.61" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="7" Name="Ethernet_Addict" Description="" Type="Ethernet" Vendor="HolidayCoro" Model="AlphaPix 16" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="1" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="22" Name="Ethernet_Tree" Description="" Type="Ethernet" Vendor="Advatek" Model="PixLite 16 MkII" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="1" IP="192.168.1.91" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.91" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <testpreset name="jj">
+    <channelr start="1" end="900"/>
+  </testpreset>
+</Networks>

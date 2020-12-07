@@ -1,0 +1,76 @@
+Ethernet_Garage E131 192.168.1.51
+Output,Model 1,Model 2,
+Pixel Port 1,Garage Backlight Left,Garage Corner Left,
+Pixel Port 2,Garage Gutter Left,
+Pixel Port 3,Garage Peak Left,
+Pixel Port 4,SnowTree Right,Snowflake Right,
+Pixel Port 5,SnowTree Center,Snowflake Center,
+Pixel Port 6,SnowTree Left,Snowflake Left,
+Pixel Port 7,
+Pixel Port 8,
+Pixel Port 9,Garage Backlight Right,Garage Corner right,
+Pixel Port 10,Garage Gutter Right,
+Pixel Port 11,Garage Peak Right,
+
+
+Ethernet_Porch E131 192.168.1.71 Porch
+Output,Model 1,Model 2,Model 3,
+Pixel Port 1,Porch Gutter Left,Left Side Gutter,
+Pixel Port 2,Porch Backlight Left,Left Side Backlight,Left Corner,
+Pixel Port 3,Left Outer Column,
+Pixel Port 4,Left Inner Column,
+Pixel Port 5,
+Pixel Port 6,
+Pixel Port 7,Tune In,
+Pixel Port 8,
+Pixel Port 9,
+Pixel Port 10,
+Pixel Port 11,
+Pixel Port 12,
+Pixel Port 13,Right Inner Column,
+Pixel Port 14,Right Outer Column,
+Pixel Port 15,Porch Backlight Right,Right Side Backlight,Right Corner,
+Pixel Port 16,Porch Gutter Right,Right Side Gutter,
+
+
+Ethernet_Addition E131 192.168.1.61
+Output,Model 1,Model 2,
+Pixel Port 1,Very Right Gutter,
+Pixel Port 2,Very Right Backlight,Very Right Corner,
+Pixel Port 3,Very Right Ridge,
+
+
+Ethernet_Addict E131 192.168.1.81
+Output,
+
+
+Ethernet_Tree E131 192.168.1.91
+Output,Model 1,
+Pixel Port 1,Tree-str-1,
+Pixel Port 2,Tree-str-2,
+Pixel Port 3,Tree-str-3,
+Pixel Port 4,Tree-str-4,
+Pixel Port 5,Tree-str-5,
+Pixel Port 6,Tree-str-6,
+Pixel Port 7,Tree-str-7,
+Pixel Port 8,Tree-str-8,
+Pixel Port 9,Tree-str-9,
+Pixel Port 10,Tree-str-10,
+Pixel Port 11,Tree-str-11,
+Pixel Port 12,Tree-str-12,
+Pixel Port 13,Tree-str-13,
+Pixel Port 14,Tree-str-14,
+Pixel Port 15,Tree-str-15,
+Pixel Port 16,Tree-str-16,
+Pixel Port 17,Tree-str-17,
+Pixel Port 18,Tree-str-18,
+Pixel Port 19,Tree-str-19,
+Pixel Port 20,Tree-str-20,
+Pixel Port 21,Star,
+Pixel Port 22,
+Pixel Port 23,
+Pixel Port 24,Triple Arch Right,
+Pixel Port 25,
+Pixel Port 26,Triple Arch left,
+
+

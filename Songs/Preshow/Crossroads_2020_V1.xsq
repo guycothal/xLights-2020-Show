@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.51</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>d:\Desktop\xLights 2020\Songs\Preshow\Crossroads_2020_V1.mp3</mediaFile>
+    <sequenceDuration>97.384</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette6=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Implode,E_CHOICE_Ripple_Object_To_Draw=Star,E_SLIDER_RIPPLE_POINTS=5,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Thickness=2,E_SLIDER_Ripple_XC=23,E_SLIDER_Ripple_YC=62,E_TEXTCTRL_Ripple_Cycles=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect></Effect>
+    <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=-11,E_SLIDER_Text_YStart=6,E_TEXTCTRL_Text=20,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=vector,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=12-15x15 Bold,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=-47,E_SLIDER_Text_XStart=47,E_SLIDER_Text_YEnd=7,E_SLIDER_Text_YStart=7,E_TEXTCTRL_Text=Thank,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\GAs Can.png,E_SLIDER_PicturesXC=-4,E_SLIDER_PicturesYC=10,E_SLIDER_Pictures_EndScale=15,E_SLIDER_Pictures_StartScale=15,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.3,T_TEXTCTRL_Fadeout=.3</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=vector,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=-48,E_SLIDER_Text_XStart=47,E_SLIDER_Text_YEnd=13,E_SLIDER_Text_YStart=13,E_TEXTCTRL_Text=107.7 FM,E_TEXTCTRL_Text_Speed=13</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=5,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1,T_TEXTCTRL_Fadein=.3,T_TEXTCTRL_Fadeout=.3</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=14,E_TEXTCTRL_Text=MON,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=14,E_TEXTCTRL_Text=FRI,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-6,E_TEXTCTRL_Text=20,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=vector,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=12-15x15 Bold,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=-47,E_SLIDER_Text_XStart=47,E_SLIDER_Text_YEnd=-7,E_SLIDER_Text_YStart=-7,E_TEXTCTRL_Text=You,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\batetry.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-24,E_SLIDER_Pictures_EndScale=5,E_SLIDER_Pictures_StartScale=5,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.3,T_TEXTCTRL_Fadeout=.3</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\Radio.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.35,T_TEXTCTRL_Fadeout=.35</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\gen lee.png,E_SLIDER_PicturesEndXC=31,E_SLIDER_PicturesEndYC=-12,E_SLIDER_PicturesXC=-35,E_SLIDER_PicturesYC=-12,E_SLIDER_Pictures_EndScale=5,E_SLIDER_Pictures_StartScale=5,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=4,E_TEXTCTRL_Text=THU,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=4,E_TEXTCTRL_Text=SUN,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-6,E_TEXTCTRL_Text=6P,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-16,E_TEXTCTRL_Text=9P,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=1,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font=bold system 11 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-16,E_TEXTCTRL_Text=10P,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\LIKE_US_ON_FACEBOOK_TWITTER.png,E_SLIDER_PicturesXC=-7,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\LIKE_US_ON_FACEBOOK_TWITTER.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\LIKE_US_ON_FACEBOOK_TWITTER.png,E_SLIDER_PicturesXC=7,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\BiggerBetterMoreEpic.png,E_SLIDER_PicturesXC=-9,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\BiggerBetterMoreEpic.png,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\BiggerBetterMoreEpic.png,E_SLIDER_PicturesXC=3,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\Preshow\BiggerBetterMoreEpic.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=0,E_SLIDER_PicturesXC=9,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadeout=.5</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="7602281" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0"/>
+    <Element collapsed="0" type="timing" name="Vocals" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Light" visible="1"/>
+    <Element collapsed="0" type="model" name="Corners" visible="1"/>
+    <Element collapsed="0" type="model" name="Columns" visible="1"/>
+    <Element collapsed="0" type="model" name="Snow Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Everything Except Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="House Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="House Strands" visible="1"/>
+    <Element collapsed="0" type="model" name="House and Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrices" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Snow Trees and flakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree and Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree and Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 7" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 8" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Output 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Martices" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Corner" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Triple Arch Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Triple Arch left" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Very Right Ridge" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Corner" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Corner" visible="1"/>
+    <Element collapsed="0" type="model" name="Tune In" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake Left" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowTree Right" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowTree Center" visible="1"/>
+    <Element collapsed="0" type="model" name="SnowTree Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Left ridge" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Ridge" visible="1"/>
+    <Element collapsed="0" type="model" name="Left hip" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Hip" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Gutter Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Gutter Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Backlight Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Backlight Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Corner Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Corner right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Backlight Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Gutter Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Backlight Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Gutter Right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Vocals">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="8150"></Effect>
+        <Effect label="" startTime="8150" endTime="8300"></Effect>
+        <Effect label="" startTime="8300" endTime="8450"></Effect>
+        <Effect label="" startTime="8450" endTime="8675"></Effect>
+        <Effect label="" startTime="8675" endTime="10425"></Effect>
+        <Effect label="" startTime="10425" endTime="10600"></Effect>
+        <Effect label="" startTime="10600" endTime="18175"></Effect>
+        <Effect label="" startTime="18175" endTime="18450"></Effect>
+        <Effect label="" startTime="18450" endTime="19025"></Effect>
+        <Effect label="" startTime="19025" endTime="19250"></Effect>
+        <Effect label="" startTime="19250" endTime="19475"></Effect>
+        <Effect label="" startTime="19475" endTime="19750"></Effect>
+        <Effect label="" startTime="19750" endTime="20625"></Effect>
+        <Effect label="" startTime="20625" endTime="24250"></Effect>
+        <Effect label="" startTime="24250" endTime="24825"></Effect>
+        <Effect label="" startTime="24825" endTime="26000"></Effect>
+        <Effect label="" startTime="26000" endTime="26850"></Effect>
+        <Effect label="" startTime="26850" endTime="27825"></Effect>
+        <Effect label="" startTime="27825" endTime="28775"></Effect>
+        <Effect label="" startTime="28775" endTime="29200"></Effect>
+        <Effect label="" startTime="29200" endTime="31200"></Effect>
+        <Effect label="" startTime="31200" endTime="37875"></Effect>
+        <Effect label="" startTime="37875" endTime="41350"></Effect>
+        <Effect label="" startTime="41350" endTime="51000"></Effect>
+        <Effect label="" startTime="51000" endTime="51350"></Effect>
+        <Effect label="" startTime="51350" endTime="52025"></Effect>
+        <Effect label="" startTime="52025" endTime="52550"></Effect>
+        <Effect label="" startTime="52550" endTime="53825"></Effect>
+        <Effect label="" startTime="53825" endTime="54250"></Effect>
+        <Effect label="" startTime="54250" endTime="54850"></Effect>
+        <Effect label="" startTime="54850" endTime="55350"></Effect>
+        <Effect label="" startTime="55350" endTime="92525"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer>
+        <Effect ref="0" name="Ripple" startTime="0" endTime="6875" palette="0"/>
+        <Effect ref="1" name="SingleStrand" id="1" startTime="35000" endTime="37875" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Color Wash" selected="1" startTime="6875" endTime="9075" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Corners">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Columns">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything Except Tree">
+      <EffectLayer>
+        <Effect ref="3" name="Plasma" startTime="12400" endTime="35000" palette="3"/>
+        <Effect ref="3" name="Plasma" id="1" startTime="37900" endTime="92500" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Strands">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House and Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrices">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Line">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Trees and flakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree and Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="4" name="Text" startTime="18175" endTime="20625" palette="3"/>
+        <Effect ref="5" name="Text" id="1" startTime="20625" endTime="23075" palette="4"/>
+        <Effect ref="6" name="Pictures" id="2" startTime="24250" endTime="26000" palette="4"/>
+        <Effect ref="7" name="Text" id="3" startTime="38225" endTime="41000" palette="4"/>
+        <Effect ref="8" name="Snowflakes" id="4" startTime="41350" endTime="45025" palette="4"/>
+        <Effect ref="9" name="Text" id="5" startTime="51000" endTime="53475" palette="3"/>
+        <Effect ref="10" name="Text" id="6" startTime="53825" endTime="56300" palette="3"/>
+        <Effect ref="3" name="Plasma" id="7" startTime="56450" endTime="92525" palette="3"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="11" name="Text" startTime="18450" endTime="20625" palette="3"/>
+        <Effect ref="12" name="Text" id="1" startTime="20625" endTime="23075" palette="4"/>
+        <Effect ref="13" name="Pictures" id="2" startTime="24825" endTime="26000" palette="4"/>
+        <Effect ref="14" name="Pictures" id="3" startTime="37875" endTime="41350" palette="3"/>
+        <Effect ref="15" name="Pictures" id="4" startTime="41350" endTime="45025" palette="4"/>
+        <Effect ref="16" name="Text" id="5" startTime="51350" endTime="53475" palette="3"/>
+        <Effect ref="17" name="Text" id="6" startTime="54275" endTime="56275" palette="3"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="18" name="Text" startTime="52025" endTime="53450" palette="3"/>
+        <Effect ref="18" name="Text" id="1" startTime="54850" endTime="56275" palette="3"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="19" name="Text" startTime="52550" endTime="53450" palette="3"/>
+        <Effect ref="20" name="Text" id="1" startTime="55375" endTime="56275" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree and Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Arches">
+      <EffectLayer>
+        <Effect ref="2" name="Color Wash" startTime="8150" endTime="8300" palette="5"/>
+        <Effect ref="2" name="Color Wash" id="1" startTime="8300" endTime="8450" palette="5"/>
+        <Effect ref="2" name="Color Wash" id="2" startTime="8450" endTime="8675" palette="5"/>
+        <Effect ref="2" name="Color Wash" id="3" startTime="8675" endTime="9050" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Arches">
+      <EffectLayer>
+        <Effect ref="2" name="Color Wash" startTime="10425" endTime="10575" palette="6"/>
+        <Effect ref="2" name="Color Wash" id="1" startTime="10600" endTime="10750" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Output 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Martices">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Corner">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triple Arch Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triple Arch left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Very Right Ridge">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Corner">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Corner">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tune In">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="SnowTree Right">
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="51000" endTime="51350" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="21" name="Pictures" startTime="37875" endTime="92525" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowTree Center">
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="51350" endTime="52025" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="22" name="Pictures" startTime="37875" endTime="92525" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="SnowTree Left">
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="52025" endTime="52550" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="23" name="Pictures" startTime="37875" endTime="92525" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left ridge">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Ridge">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left hip">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Hip">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Outer Column">
+      <EffectLayer>
+        <Effect ref="24" name="Pictures" startTime="29200" endTime="31200" palette="4"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="29200" endTime="31200" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Inner Column">
+      <EffectLayer>
+        <Effect ref="25" name="Pictures" startTime="28775" endTime="31200" palette="4"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="28775" endTime="31175" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Inner Column">
+      <EffectLayer>
+        <Effect ref="26" name="Pictures" startTime="27825" endTime="31200" palette="4"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="27825" endTime="31175" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Outer Column">
+      <EffectLayer>
+        <Effect ref="27" name="Pictures" startTime="26850" endTime="31200" palette="4"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Off" startTime="26850" endTime="31200" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Side Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Gutter Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Gutter Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Backlight Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Backlight Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Corner Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Corner right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Backlight Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Gutter Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Backlight Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Gutter Right">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

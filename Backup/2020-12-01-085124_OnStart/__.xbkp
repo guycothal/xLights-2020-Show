@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.46</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="7536699" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Right Side Backlight-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Gutter" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Gutter Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Gutter Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Backlight" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Backlight Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Porch Backlight Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Corner Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Corner right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Backlight Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Gutter Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Backlight Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage Gutter Right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Backlight-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Gutter">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Gutter Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Gutter Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Backlight">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Backlight Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Porch Backlight Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Inner Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Inner Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Outer Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Outer Column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Corner Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Corner right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Backlight Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Gutter Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Backlight Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage Gutter Right">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
