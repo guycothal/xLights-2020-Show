@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
   <head>
-    <version>2020.51</version>
+    <version>2020.53</version>
     <author/>
     <author-email/>
     <author-website/>
@@ -12,7 +12,7 @@
     <comment/>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>d:\Desktop\xLights 2020\Songs\Can Can\01 - The Christmas Can-Can.mp3</mediaFile>
+    <mediaFile>d:\Desktop\xLights-2020-Show\Songs\Can Can\01 - The Christmas Can-Can.mp3</mediaFile>
     <sequenceDuration>161.671</sequenceDuration>
     <imageDir/>
   </head>
@@ -134,8 +134,8 @@
     <Effect>E_CHECKBOX_Tree_ShowLights=0,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=12,T_CHOICE_LayerMethod=Left-Right</Effect>
     <Effect>B_CHOICE_BufferTransform=Flip Vertical,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=50,E_SLIDER_Spirals_Thickness=37,E_TEXTCTRL_Spirals_Movement=3.0</Effect>
     <Effect>E_CHECKBOX_Tree_ShowLights=0,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=12</Effect>
-    <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=34,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7.3,T_CHOICE_LayerMethod=Effect 1</Effect>
     <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=34,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7.3,T_CHOICE_LayerMethod=Effect 1</Effect>
+    <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=34,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7.3,T_CHOICE_LayerMethod=Effect 1</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="5111840" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -151,7 +151,9 @@
     <Element collapsed="0" type="model" name="Output 7" visible="1"/>
     <Element collapsed="0" type="model" name="Output 8" visible="1"/>
     <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage" visible="1"/>
     <Element collapsed="0" type="model" name="Back Light" visible="1"/>
+    <Element collapsed="0" type="model" name="Columns" visible="1"/>
     <Element collapsed="0" type="model" name="Roof Line" visible="1"/>
     <Element collapsed="0" type="model" name="Corners" visible="1"/>
     <Element collapsed="0" type="model" name="Porch Roof" visible="1"/>
@@ -169,22 +171,22 @@
     <Element collapsed="0" type="model" name="Tree and Arches" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake Right" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake Center" visible="1"/>
-    <Element collapsed="0" type="model" name="Right Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Tune In" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix Right" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix Left" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake Left" visible="1"/>
     <Element collapsed="0" type="model" name="Star" visible="1"/>
     <Element collapsed="0" type="model" name="Tree" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrices" visible="1"/>
-    <Element collapsed="0" type="model" name="Garage" visible="1"/>
-    <Element collapsed="0" type="model" name="Snow Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="Columns" visible="1"/>
     <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Background 3" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Background 2" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Background 1" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Main Vocals" visible="1" views="" active="1"/>
     <Element collapsed="0" type="timing" name="New Timing-1" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="model" name="Left Outer Column" visible="0"/>
+    <Element collapsed="0" type="model" name="Left Inner Column" visible="0"/>
+    <Element collapsed="0" type="model" name="Right Inner Column" visible="0"/>
+    <Element collapsed="0" type="model" name="Right Outer Column" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -268,11 +270,69 @@
       </EffectLayer>
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Garage">
+      <EffectLayer>
+        <Effect ref="0" name="Color Wash" startTime="0" endTime="15775" palette="0"/>
+        <Effect ref="1" name="VU Meter" id="1" startTime="19300" endTime="20400" palette="0"/>
+        <Effect ref="2" name="On" id="2" startTime="20400" endTime="21300" palette="1"/>
+        <Effect ref="2" name="On" id="3" startTime="21300" endTime="22150" palette="2"/>
+        <Effect ref="2" name="On" id="4" startTime="22150" endTime="23100" palette="3"/>
+        <Effect ref="2" name="On" id="5" startTime="23100" endTime="23900" palette="4"/>
+        <Effect ref="2" name="On" id="6" startTime="23900" endTime="24650" palette="5"/>
+        <Effect ref="2" name="On" id="7" startTime="24650" endTime="25425" palette="6"/>
+        <Effect ref="2" name="On" id="8" startTime="25425" endTime="25875" palette="7"/>
+        <Effect ref="2" name="On" id="9" startTime="25875" endTime="26400" palette="8"/>
+        <Effect ref="2" name="On" id="10" startTime="26400" endTime="26575" palette="9"/>
+        <Effect ref="2" name="On" id="11" startTime="26575" endTime="27000" palette="10"/>
+        <Effect ref="3" name="Pinwheel" id="12" startTime="33050" endTime="36575" palette="11"/>
+        <Effect ref="4" name="Meteors" id="13" startTime="36575" endTime="41675" palette="12"/>
+        <Effect ref="1" name="VU Meter" id="14" startTime="41675" endTime="42950" palette="0"/>
+        <Effect ref="5" name="On" id="15" startTime="46200" endTime="46550" palette="13"/>
+        <Effect ref="6" name="On" id="16" startTime="46550" endTime="46875" palette="14"/>
+        <Effect ref="6" name="On" id="17" startTime="46875" endTime="47200" palette="13"/>
+        <Effect ref="6" name="On" id="18" startTime="47200" endTime="47750" palette="14"/>
+        <Effect ref="7" name="On" id="19" startTime="49400" endTime="49750" palette="15"/>
+        <Effect ref="8" name="On" id="20" startTime="49750" endTime="50075" palette="15"/>
+        <Effect ref="8" name="On" id="21" startTime="50075" endTime="50425" palette="15"/>
+        <Effect ref="8" name="On" id="22" startTime="50425" endTime="50750" palette="15"/>
+        <Effect ref="9" name="Shockwave" id="23" startTime="52550" endTime="52950" palette="16"/>
+        <Effect ref="9" name="Shockwave" id="24" startTime="52950" endTime="53350" palette="17"/>
+        <Effect ref="9" name="Shockwave" id="25" startTime="53350" endTime="53725" palette="18"/>
+        <Effect ref="9" name="Shockwave" id="26" startTime="53725" endTime="54175" palette="19"/>
+        <Effect ref="10" name="SingleStrand" id="27" startTime="54175" endTime="58000" palette="20"/>
+        <Effect ref="11" name="SingleStrand" id="28" startTime="58000" endTime="60875" palette="21"/>
+        <Effect ref="12" name="SingleStrand" id="29" startTime="61400" endTime="66350" palette="22"/>
+        <Effect ref="13" name="SingleStrand" id="30" startTime="67800" endTime="73475" palette="23"/>
+        <Effect ref="14" name="Spirals" id="31" startTime="74150" endTime="79150" palette="24"/>
+        <Effect ref="15" name="Morph" id="32" startTime="86600" endTime="87375" palette="25"/>
+        <Effect ref="16" name="Morph" id="33" startTime="87375" endTime="88175" palette="26"/>
+        <Effect ref="15" name="Morph" id="34" startTime="88175" endTime="89000" palette="25"/>
+        <Effect ref="16" name="Morph" id="35" startTime="89000" endTime="89800" palette="26"/>
+        <Effect ref="15" name="Morph" id="36" startTime="89800" endTime="90625" palette="25"/>
+        <Effect ref="16" name="Morph" id="37" startTime="90625" endTime="91450" palette="26"/>
+        <Effect ref="16" name="Morph" id="38" startTime="91450" endTime="91875" palette="25"/>
+        <Effect ref="16" name="Morph" id="39" startTime="91875" endTime="92250" palette="25"/>
+        <Effect ref="2" name="On" id="40" startTime="95000" endTime="100950" palette="27"/>
+        <Effect ref="17" name="Snowflakes" id="41" startTime="101400" endTime="107750" palette="28"/>
+        <Effect ref="18" name="VU Meter" id="42" startTime="107800" endTime="110950" palette="25"/>
+        <Effect ref="19" name="SingleStrand" id="43" startTime="123750" endTime="128700" palette="29"/>
+        <Effect ref="20" name="On" id="44" startTime="135200" endTime="138350" palette="30"/>
+        <Effect ref="20" name="On" id="45" startTime="138600" endTime="141500" palette="25"/>
+        <Effect ref="21" name="Twinkle" id="46" startTime="141525" endTime="145000" palette="31"/>
+        <Effect ref="22" name="Butterfly" id="47" startTime="145000" endTime="150950" palette="32"/>
+        <Effect ref="23" name="Fan" id="48" startTime="155750" endTime="158350" palette="29"/>
+      </EffectLayer>
+    </Element>
     <Element type="model" name="Back Light">
       <EffectLayer>
         <Effect ref="2" name="On" startTime="54175" endTime="58000" palette="33"/>
         <Effect ref="24" name="Morph" id="1" startTime="123100" endTime="123750" palette="34"/>
         <Effect ref="25" name="VU Meter" id="2" startTime="128700" endTime="130150" palette="14"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Columns">
+      <EffectLayer>
+        <Effect ref="13" name="SingleStrand" selected="1" startTime="0" endTime="5675" palette="23"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Roof Line">
@@ -793,7 +853,7 @@
       </EffectLayer>
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Right Outer Column">
+    <Element type="model" name="Tune In">
       <EffectLayer>
         <Effect ref="0" name="Color Wash" startTime="0" endTime="15775" palette="0"/>
         <Effect ref="1" name="VU Meter" id="1" startTime="19300" endTime="20400" palette="0"/>
@@ -944,34 +1004,6 @@
       </EffectLayer>
       <EffectLayer>
         <Effect ref="66" name="Tree" startTime="101400" endTime="107700" palette="25"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Matrices">
-      <EffectLayer>
-        <Effect ref="2" name="On" startTime="43700" endTime="44050" palette="14"/>
-        <Effect ref="67" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
-        <Effect ref="67" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Garage">
-      <EffectLayer>
-        <Effect ref="2" name="On" startTime="43375" endTime="43700" palette="26"/>
-        <Effect ref="68" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
-        <Effect ref="68" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Snow Trees">
-      <EffectLayer>
-        <Effect ref="2" name="On" startTime="43000" endTime="43375" palette="25"/>
-        <Effect ref="67" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
-        <Effect ref="67" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Columns">
-      <EffectLayer>
-        <Effect ref="2" name="On" startTime="44050" endTime="44450" palette="4"/>
-        <Effect ref="68" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
-        <Effect ref="68" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
       </EffectLayer>
     </Element>
     <Element type="timing" name="Beats">
@@ -4138,6 +4170,34 @@
         <Effect label="" startTime="90625" endTime="91450"></Effect>
         <Effect label="" startTime="91450" endTime="91875"></Effect>
         <Effect label="" startTime="91875" endTime="92250"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Outer Column">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="44050" endTime="44450" palette="4"/>
+        <Effect ref="67" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
+        <Effect ref="67" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Inner Column">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="43700" endTime="44050" palette="14"/>
+        <Effect ref="68" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
+        <Effect ref="68" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Inner Column">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="43375" endTime="43700" palette="26"/>
+        <Effect ref="67" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
+        <Effect ref="67" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Outer Column">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="43000" endTime="43375" palette="25"/>
+        <Effect ref="68" name="SingleStrand" id="1" startTime="67800" endTime="73475" palette="23"/>
+        <Effect ref="68" name="SingleStrand" id="2" startTime="123750" endTime="128700" palette="29"/>
       </EffectLayer>
     </Element>
   </ElementEffects>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2020.51</version>
+    <version>2020.53</version>
     <author/>
     <author-email/>
     <author-website/>
-    <song></song>
-    <artist></artist>
-    <album></album>
+    <song/>
+    <artist/>
+    <album/>
     <MusicURL/>
     <comment/>
     <sequenceTiming>25 ms</sequenceTiming>
@@ -54,31 +54,25 @@
     <Effect>T_CHOICE_LayerMethod=Additive</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=15,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=32,E_SLIDER_Galaxy_End_Width=33,E_SLIDER_Galaxy_Revolutions=2381,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=250,E_SLIDER_Galaxy_Start_Width=204</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=3,E_SLIDER_Spirals_Rotation=-60,E_SLIDER_Spirals_Thickness=16,E_TEXTCTRL_Spirals_Movement=-3</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=15,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=32,E_SLIDER_Galaxy_End_Width=33,E_SLIDER_Galaxy_Revolutions=2381,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=146,E_SLIDER_Galaxy_Start_Width=204</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=85,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=32,E_SLIDER_Galaxy_End_Width=33,E_SLIDER_Galaxy_Revolutions=2381,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=146,E_SLIDER_Galaxy_Start_Width=204</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Galaxy_Blend_Edges=1,E_CHECKBOX_Galaxy_Inward=0,E_CHECKBOX_Galaxy_Reverse=0,E_NOTEBOOK_Galaxy=Start,E_SLIDER_Galaxy_Accel=0,E_SLIDER_Galaxy_CenterX=85,E_SLIDER_Galaxy_CenterY=50,E_SLIDER_Galaxy_Duration=20,E_SLIDER_Galaxy_End_Radius=32,E_SLIDER_Galaxy_End_Width=33,E_SLIDER_Galaxy_Revolutions=2381,E_SLIDER_Galaxy_Start_Angle=0,E_SLIDER_Galaxy_Start_Radius=250,E_SLIDER_Galaxy_Start_Width=204</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=0,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=30</Effect>
     <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=LET IT GO,E_TEXTCTRL_Text_Speed=14</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-32,E_TEXTCTRL_Text=LET IT GO,E_TEXTCTRL_Text_Speed=14</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\LetItGo\ELSA.PNG,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\ELSA.PNG,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=16,E_TEXTCTRL_Text=LET IT GO,E_TEXTCTRL_Text_Speed=14</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-16,E_TEXTCTRL_Text=LET IT GO,E_TEXTCTRL_Text_Speed=14</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\LetItGo\Anna.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\ELSA.PNG,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Anna.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\Anna.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\ELSA.PNG,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=0,E_SLIDER_Twinkle_Count=6,E_SLIDER_Twinkle_Steps=30</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\Let It Go.png,E_SLIDER_PicturesXC=9,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.25,T_TEXTCTRL_Fadeout=.25</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\Let It Go.png,E_SLIDER_PicturesXC=-3,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.25,T_TEXTCTRL_Fadeout=.25</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\Let It Go.png,E_SLIDER_PicturesXC=3,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.25,T_TEXTCTRL_Fadeout=.25</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=1,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights-2020-Show\Songs\LetItGo\Let It Go.png,E_SLIDER_PicturesXC=-9,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.25,T_TEXTCTRL_Fadeout=.25</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=-24,E_SLIDER_PinwheelYC=21,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=20,E_SLIDER_Pinwheel_Speed=1,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=-360</Effect>
     <Effect>E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=-7,E_SLIDER_PinwheelYC=-26,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=20,E_SLIDER_Pinwheel_Speed=1,E_SLIDER_Pinwheel_Thickness=0,E_SLIDER_Pinwheel_Twist=-360</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\LetItGo\sven.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Olaf.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\sven.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Hans.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Kristoff.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=d:\Desktop\xLights 2020\Songs\LetItGo\Kristoff.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Hans.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Kristoff.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\Olaf.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=-16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=vector,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\xLights\Data\SEQ\Christmas\LetItGo\sven.png,E_SLIDER_PicturesEndXC=0,E_SLIDER_PicturesEndYC=16,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-16,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0 ,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=vert text up,E_CHOICE_Text_Font=6-5x6 Thin,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=LET IT GO,E_TEXTCTRL_Text_Speed=10</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="5505056" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -94,6 +88,10 @@
     <Element collapsed="0" type="model" name="House Roof" visible="1"/>
     <Element collapsed="0" type="model" name="Star" visible="1"/>
     <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Outer Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Inner Column" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Outer Column" visible="1"/>
     <Element collapsed="0" type="model" name="Arches" visible="1"/>
     <Element collapsed="0" type="model" name="Everything Except Tree" visible="1"/>
     <Element collapsed="0" type="model" name="House Strands" visible="1"/>
@@ -118,10 +116,6 @@
     <Element collapsed="0" type="model" name="Tree and Arches" visible="1"/>
     <Element collapsed="0" type="model" name="Tree and Star" visible="1"/>
     <Element collapsed="0" type="model" name="Columns" visible="1"/>
-    <Element collapsed="0" type="model" name="Left Inner Column" visible="1"/>
-    <Element collapsed="0" type="model" name="Left Outer Column" visible="1"/>
-    <Element collapsed="0" type="model" name="Right Inner Column" visible="1"/>
-    <Element collapsed="0" type="model" name="Right Outer Column" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -242,10 +236,10 @@
         <Effect ref="6" name="Spirals" id="10" startTime="81800" endTime="83550" palette="2"/>
         <Effect ref="7" name="Spirals" id="11" startTime="83550" endTime="85350" palette="2"/>
         <Effect ref="8" name="Butterfly" id="12" startTime="85600" endTime="92650" palette="3"/>
-        <Effect ref="9" name="Wave" id="13" startTime="92650" endTime="106625" palette="4"/>
-        <Effect ref="5" name="Galaxy" id="14" startTime="106625" endTime="121475" palette="1"/>
+        <Effect ref="9" name="Wave" id="13" startTime="92650" endTime="106525" palette="4"/>
+        <Effect ref="5" name="Galaxy" id="14" startTime="106525" endTime="121350" palette="1"/>
         <Effect ref="10" name="Spirals" id="15" startTime="136200" endTime="146675" palette="1"/>
-        <Effect ref="11" name="Galaxy" id="16" startTime="175300" endTime="182725" palette="1"/>
+        <Effect ref="11" name="Galaxy" id="16" startTime="174875" endTime="182950" palette="1"/>
         <Effect ref="10" name="Spirals" id="17" startTime="198025" endTime="207900" palette="1"/>
         <Effect ref="12" name="Spirals" id="18" startTime="207900" endTime="211500" palette="1"/>
         <Effect ref="13" name="Twinkle" id="19" startTime="211500" endTime="218875" palette="1"/>
@@ -259,25 +253,31 @@
         <Effect ref="18" name="Color Wash" id="5" startTime="153600" endTime="153950" palette="6"/>
         <Effect ref="18" name="Color Wash" id="6" startTime="160625" endTime="160975" palette="6"/>
         <Effect ref="18" name="Color Wash" id="7" startTime="167600" endTime="167950" palette="6"/>
-        <Effect ref="19" name="Galaxy" id="8" startTime="174875" endTime="182300" palette="1"/>
+        <Effect ref="19" name="Galaxy" id="8" startTime="174875" endTime="182950" palette="1"/>
         <Effect ref="16" name="Ripple" id="9" startTime="182950" endTime="197900" palette="1"/>
         <Effect ref="17" name="Spirals" id="10" startTime="198025" endTime="207900" palette="1"/>
         <Effect ref="20" name="Spirals" id="11" startTime="207900" endTime="211500" palette="1"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="21" name="Galaxy" startTime="174875" endTime="182300" palette="1"/>
+        <Effect ref="21" name="Galaxy" startTime="43200" endTime="60625" palette="1"/>
+        <Effect ref="21" name="Galaxy" id="1" startTime="106500" endTime="121350" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="22" name="Galaxy" startTime="43200" endTime="60625" palette="1"/>
+        <Effect ref="22" name="Galaxy" id="1" startTime="106500" endTime="121350" palette="1"/>
+        <Effect ref="23" name="Galaxy" id="2" startTime="174875" endTime="182950" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="House">
       <EffectLayer>
-        <Effect ref="22" name="Twinkle" startTime="59900" endTime="74850" palette="1"/>
-        <Effect ref="22" name="Twinkle" id="1" startTime="121350" endTime="136300" palette="1"/>
-        <Effect ref="22" name="Twinkle" id="3" startTime="182950" endTime="197900" palette="1"/>
+        <Effect ref="24" name="Twinkle" startTime="59900" endTime="74850" palette="1"/>
+        <Effect ref="24" name="Twinkle" id="1" startTime="121350" endTime="136300" palette="1"/>
+        <Effect ref="24" name="Twinkle" id="2" startTime="182950" endTime="197900" palette="1"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="16" name="Ripple" startTime="59900" endTime="74850" palette="1"/>
         <Effect ref="16" name="Ripple" id="1" startTime="121350" endTime="136300" palette="1"/>
-        <Effect ref="16" name="Ripple" id="3" startTime="182950" endTime="197900" palette="1"/>
+        <Effect ref="16" name="Ripple" id="2" startTime="182950" endTime="197900" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Back Light">
@@ -317,69 +317,109 @@
     </Element>
     <Element type="model" name="Star">
       <EffectLayer>
-        <Effect ref="23" name="Ripple" startTime="60625" endTime="62550" palette="7"/>
-        <Effect ref="23" name="Ripple" id="1" startTime="62550" endTime="64375" palette="8"/>
-        <Effect ref="23" name="Ripple" id="2" startTime="64375" endTime="66025" palette="0"/>
-        <Effect ref="23" name="Ripple" id="3" startTime="66025" endTime="67900" palette="9"/>
-        <Effect ref="23" name="Ripple" id="4" startTime="67900" endTime="69575" palette="7"/>
-        <Effect ref="23" name="Ripple" id="5" startTime="69575" endTime="71325" palette="8"/>
-        <Effect ref="23" name="Ripple" id="6" startTime="71325" endTime="73075" palette="0"/>
-        <Effect ref="23" name="Ripple" id="7" startTime="73075" endTime="74875" palette="1"/>
-        <Effect ref="23" name="Ripple" id="8" startTime="122075" endTime="124000" palette="7"/>
-        <Effect ref="23" name="Ripple" id="9" startTime="124000" endTime="125825" palette="8"/>
-        <Effect ref="23" name="Ripple" id="10" startTime="125825" endTime="127475" palette="0"/>
-        <Effect ref="23" name="Ripple" id="11" startTime="127475" endTime="129350" palette="9"/>
-        <Effect ref="23" name="Ripple" id="12" startTime="129350" endTime="131025" palette="7"/>
-        <Effect ref="23" name="Ripple" id="13" startTime="131025" endTime="132775" palette="8"/>
-        <Effect ref="23" name="Ripple" id="14" startTime="132775" endTime="134525" palette="0"/>
-        <Effect ref="23" name="Ripple" id="15" startTime="134525" endTime="136325" palette="1"/>
-        <Effect ref="23" name="Ripple" id="16" startTime="183675" endTime="185600" palette="7"/>
-        <Effect ref="23" name="Ripple" id="17" startTime="185600" endTime="187425" palette="8"/>
-        <Effect ref="23" name="Ripple" id="18" startTime="187425" endTime="189075" palette="0"/>
-        <Effect ref="23" name="Ripple" id="19" startTime="189075" endTime="190950" palette="9"/>
-        <Effect ref="23" name="Ripple" id="20" startTime="190950" endTime="192625" palette="7"/>
-        <Effect ref="23" name="Ripple" id="21" startTime="192625" endTime="194375" palette="8"/>
-        <Effect ref="23" name="Ripple" id="22" startTime="194375" endTime="196125" palette="0"/>
-        <Effect ref="23" name="Ripple" id="23" startTime="196125" endTime="197925" palette="1"/>
+        <Effect ref="25" name="Ripple" startTime="60625" endTime="62550" palette="7"/>
+        <Effect ref="25" name="Ripple" id="1" startTime="62550" endTime="64375" palette="8"/>
+        <Effect ref="25" name="Ripple" id="2" startTime="64375" endTime="66025" palette="0"/>
+        <Effect ref="25" name="Ripple" id="3" startTime="66025" endTime="67900" palette="9"/>
+        <Effect ref="25" name="Ripple" id="4" startTime="67900" endTime="69575" palette="7"/>
+        <Effect ref="25" name="Ripple" id="5" startTime="69575" endTime="71325" palette="8"/>
+        <Effect ref="25" name="Ripple" id="6" startTime="71325" endTime="73075" palette="0"/>
+        <Effect ref="25" name="Ripple" id="7" startTime="73075" endTime="74875" palette="1"/>
+        <Effect ref="25" name="Ripple" id="8" startTime="122075" endTime="124000" palette="7"/>
+        <Effect ref="25" name="Ripple" id="9" startTime="124000" endTime="125825" palette="8"/>
+        <Effect ref="25" name="Ripple" id="10" startTime="125825" endTime="127475" palette="0"/>
+        <Effect ref="25" name="Ripple" id="11" startTime="127475" endTime="129350" palette="9"/>
+        <Effect ref="25" name="Ripple" id="12" startTime="129350" endTime="131025" palette="7"/>
+        <Effect ref="25" name="Ripple" id="13" startTime="131025" endTime="132775" palette="8"/>
+        <Effect ref="25" name="Ripple" id="14" startTime="132775" endTime="134525" palette="0"/>
+        <Effect ref="25" name="Ripple" id="15" startTime="134525" endTime="136325" palette="1"/>
+        <Effect ref="25" name="Ripple" id="16" startTime="183675" endTime="185600" palette="7"/>
+        <Effect ref="25" name="Ripple" id="17" startTime="185600" endTime="187425" palette="8"/>
+        <Effect ref="25" name="Ripple" id="18" startTime="187425" endTime="189075" palette="0"/>
+        <Effect ref="25" name="Ripple" id="19" startTime="189075" endTime="190950" palette="9"/>
+        <Effect ref="25" name="Ripple" id="20" startTime="190950" endTime="192625" palette="7"/>
+        <Effect ref="25" name="Ripple" id="21" startTime="192625" endTime="194375" palette="8"/>
+        <Effect ref="25" name="Ripple" id="22" startTime="194375" endTime="196125" palette="0"/>
+        <Effect ref="25" name="Ripple" id="23" startTime="196125" endTime="197925" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree">
       <EffectLayer>
-        <Effect ref="24" name="Text" startTime="59925" endTime="61675" palette="10"/>
-        <Effect ref="25" name="Text" id="1" startTime="61675" endTime="63425" palette="7"/>
-        <Effect ref="26" name="Pictures" id="2" startTime="63425" endTime="67275" palette="7"/>
-        <Effect ref="27" name="Text" id="3" startTime="67275" endTime="69025" palette="10"/>
-        <Effect ref="28" name="Text" id="4" startTime="69025" endTime="70775" palette="10"/>
-        <Effect ref="29" name="Pictures" id="5" startTime="70850" endTime="74900" palette="7"/>
-        <Effect ref="24" name="Text" id="6" startTime="121375" endTime="123125" palette="10"/>
-        <Effect ref="25" name="Text" id="7" startTime="123125" endTime="124875" palette="7"/>
-        <Effect ref="30" name="Pictures" id="8" startTime="124875" endTime="128725" palette="7"/>
-        <Effect ref="27" name="Text" id="9" startTime="128725" endTime="130475" palette="10"/>
-        <Effect ref="28" name="Text" id="10" startTime="130475" endTime="132225" palette="10"/>
+        <Effect ref="26" name="Text" startTime="59925" endTime="61675" palette="10"/>
+        <Effect ref="27" name="Text" id="1" startTime="61675" endTime="63425" palette="7"/>
+        <Effect ref="28" name="Pictures" id="2" startTime="63425" endTime="67275" palette="7"/>
+        <Effect ref="29" name="Text" id="3" startTime="67275" endTime="69025" palette="10"/>
+        <Effect ref="30" name="Text" id="4" startTime="69025" endTime="70775" palette="10"/>
+        <Effect ref="31" name="Pictures" id="5" startTime="70850" endTime="74900" palette="7"/>
+        <Effect ref="26" name="Text" id="6" startTime="121375" endTime="123125" palette="10"/>
+        <Effect ref="27" name="Text" id="7" startTime="123125" endTime="124875" palette="7"/>
+        <Effect ref="28" name="Pictures" selected="1" id="8" startTime="124875" endTime="128725" palette="7"/>
+        <Effect ref="29" name="Text" id="9" startTime="128725" endTime="130475" palette="10"/>
+        <Effect ref="30" name="Text" id="10" startTime="130475" endTime="132225" palette="10"/>
         <Effect ref="31" name="Pictures" id="11" startTime="132225" endTime="136275" palette="7"/>
-        <Effect ref="24" name="Text" id="12" startTime="182975" endTime="184725" palette="10"/>
-        <Effect ref="25" name="Text" id="13" startTime="184725" endTime="186475" palette="7"/>
-        <Effect ref="30" name="Pictures" id="14" startTime="186475" endTime="190325" palette="7"/>
-        <Effect ref="27" name="Text" id="15" startTime="190325" endTime="192075" palette="10"/>
-        <Effect ref="28" name="Text" id="16" startTime="192075" endTime="193825" palette="10"/>
-        <Effect ref="31" name="Pictures" id="17" startTime="193975" endTime="198025" palette="7"/>
+        <Effect ref="26" name="Text" id="12" startTime="182975" endTime="184725" palette="10"/>
+        <Effect ref="27" name="Text" id="13" startTime="184725" endTime="186475" palette="7"/>
+        <Effect ref="32" name="Pictures" id="14" startTime="186475" endTime="190325" palette="7"/>
+        <Effect ref="29" name="Text" id="15" startTime="190325" endTime="192075" palette="10"/>
+        <Effect ref="30" name="Text" id="16" startTime="192075" endTime="193825" palette="10"/>
+        <Effect ref="31" name="Pictures" id="17" startTime="193900" endTime="197950" palette="7"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="32" name="Twinkle" startTime="59900" endTime="74850" palette="1"/>
-        <Effect ref="32" name="Twinkle" id="1" startTime="121350" endTime="136300" palette="1"/>
-        <Effect ref="32" name="Twinkle" id="2" startTime="182950" endTime="197900" palette="1"/>
+        <Effect ref="33" name="Twinkle" startTime="59900" endTime="74850" palette="1"/>
+        <Effect ref="33" name="Twinkle" id="1" startTime="121350" endTime="136300" palette="1"/>
+        <Effect ref="33" name="Twinkle" id="2" startTime="182950" endTime="197900" palette="1"/>
       </EffectLayer>
       <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Outer Column">
+      <EffectLayer>
+        <Effect ref="34" name="Pictures" startTime="59650" endTime="63675" palette="11"/>
+        <Effect ref="35" name="Pictures" id="1" startTime="67000" endTime="71025" palette="11"/>
+        <Effect ref="34" name="Pictures" id="2" startTime="121125" endTime="125150" palette="11"/>
+        <Effect ref="35" name="Pictures" id="3" startTime="128475" endTime="132500" palette="11"/>
+        <Effect ref="34" name="Pictures" id="4" startTime="182700" endTime="186725" palette="11"/>
+        <Effect ref="35" name="Pictures" id="5" startTime="190075" endTime="194100" palette="11"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Inner Column">
+      <EffectLayer>
+        <Effect ref="36" name="Pictures" startTime="59900" endTime="63675" palette="11"/>
+        <Effect ref="37" name="Pictures" id="1" startTime="67275" endTime="71050" palette="11"/>
+        <Effect ref="36" name="Pictures" id="2" startTime="121375" endTime="125150" palette="11"/>
+        <Effect ref="37" name="Pictures" id="3" startTime="128750" endTime="132525" palette="11"/>
+        <Effect ref="36" name="Pictures" id="4" startTime="182950" endTime="186725" palette="11"/>
+        <Effect ref="37" name="Pictures" id="5" startTime="190375" endTime="194150" palette="11"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Inner Column">
+      <EffectLayer>
+        <Effect ref="34" name="Pictures" startTime="61425" endTime="63675" palette="11"/>
+        <Effect ref="35" name="Pictures" id="1" startTime="68800" endTime="71050" palette="11"/>
+        <Effect ref="34" name="Pictures" id="2" startTime="122900" endTime="125150" palette="11"/>
+        <Effect ref="35" name="Pictures" id="3" startTime="130275" endTime="132525" palette="11"/>
+        <Effect ref="34" name="Pictures" id="4" startTime="184475" endTime="186725" palette="11"/>
+        <Effect ref="35" name="Pictures" id="5" startTime="191900" endTime="194150" palette="11"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Outer Column">
+      <EffectLayer>
+        <Effect ref="36" name="Pictures" startTime="61675" endTime="63675" palette="11"/>
+        <Effect ref="37" name="Pictures" id="1" startTime="69025" endTime="71025" palette="11"/>
+        <Effect ref="36" name="Pictures" id="2" startTime="123150" endTime="125150" palette="11"/>
+        <Effect ref="37" name="Pictures" id="3" startTime="130500" endTime="132500" palette="11"/>
+        <Effect ref="36" name="Pictures" id="4" startTime="184750" endTime="186750" palette="11"/>
+        <Effect ref="37" name="Pictures" id="5" startTime="192100" endTime="194100" palette="11"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Arches">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Everything Except Tree">
       <EffectLayer>
-        <Effect ref="33" name="Pinwheel" startTime="146600" endTime="174875" palette="1"/>
+        <Effect ref="38" name="Pinwheel" startTime="146600" endTime="174875" palette="1"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="34" name="Pinwheel" startTime="146625" endTime="174875" palette="6"/>
+        <Effect ref="39" name="Pinwheel" startTime="146625" endTime="174875" palette="6"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="House Strands">
@@ -395,48 +435,10 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix Left">
-      <EffectLayer>
-        <Effect ref="24" name="Text" startTime="59925" endTime="61675" palette="10"/>
-        <Effect ref="25" name="Text" id="1" startTime="61675" endTime="63425" palette="7"/>
-        <Effect ref="35" name="Pictures" id="2" startTime="63425" endTime="67275" palette="7"/>
-        <Effect ref="27" name="Text" id="3" startTime="67275" endTime="69025" palette="10"/>
-        <Effect ref="28" name="Text" id="4" startTime="69025" endTime="70775" palette="10"/>
-        <Effect ref="36" name="Pictures" id="5" startTime="70775" endTime="74825" palette="7"/>
-        <Effect ref="24" name="Text" id="6" startTime="121350" endTime="123150" palette="10"/>
-        <Effect ref="25" name="Text" id="7" startTime="123150" endTime="124900" palette="7"/>
-        <Effect ref="37" name="Pictures" id="8" startTime="124900" endTime="128750" palette="7"/>
-        <Effect ref="27" name="Text" id="9" startTime="128750" endTime="130500" palette="10"/>
-        <Effect ref="28" name="Text" id="10" startTime="130500" endTime="132225" palette="10"/>
-        <Effect ref="36" name="Pictures" id="11" startTime="132225" endTime="136175" palette="7"/>
-        <Effect ref="24" name="Text" id="12" startTime="182975" endTime="184725" palette="10"/>
-        <Effect ref="25" name="Text" id="13" startTime="184725" endTime="186450" palette="7"/>
-        <Effect ref="38" name="Pictures" id="14" startTime="186450" endTime="190325" palette="7"/>
-        <Effect ref="27" name="Text" id="15" startTime="190325" endTime="192075" palette="10"/>
-        <Effect ref="28" name="Text" id="16" startTime="192075" endTime="193825" palette="10"/>
-        <Effect ref="39" name="Pictures" id="17" startTime="193950" endTime="198000" palette="7"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix Right">
-      <EffectLayer>
-        <Effect ref="24" name="Text" startTime="59925" endTime="61675" palette="10"/>
-        <Effect ref="25" name="Text" id="1" startTime="61675" endTime="63425" palette="7"/>
-        <Effect ref="40" name="Pictures" id="2" startTime="63425" endTime="67275" palette="7"/>
-        <Effect ref="27" name="Text" id="3" startTime="67275" endTime="69025" palette="10"/>
-        <Effect ref="28" name="Text" id="4" startTime="69025" endTime="70775" palette="10"/>
-        <Effect ref="41" name="Pictures" id="5" startTime="70850" endTime="74900" palette="7"/>
-        <Effect ref="24" name="Text" id="6" startTime="121350" endTime="123175" palette="10"/>
-        <Effect ref="25" name="Text" id="7" startTime="123175" endTime="124850" palette="7"/>
-        <Effect ref="42" name="Pictures" id="8" startTime="124850" endTime="128725" palette="7"/>
-        <Effect ref="27" name="Text" id="9" startTime="128725" endTime="130450" palette="10"/>
-        <Effect ref="28" name="Text" id="10" startTime="130450" endTime="132250" palette="10"/>
-        <Effect ref="41" name="Pictures" id="11" startTime="132250" endTime="136150" palette="7"/>
-        <Effect ref="24" name="Text" id="12" startTime="182975" endTime="184725" palette="10"/>
-        <Effect ref="25" name="Text" id="13" startTime="184725" endTime="186450" palette="7"/>
-        <Effect ref="43" name="Pictures" id="14" startTime="186450" endTime="190325" palette="7"/>
-        <Effect ref="27" name="Text" id="15" startTime="190325" endTime="192075" palette="10"/>
-        <Effect ref="28" name="Text" id="16" startTime="192075" endTime="193825" palette="10"/>
-        <Effect ref="44" name="Pictures" id="17" startTime="193825" endTime="197875" palette="7"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Output 1">
       <EffectLayer/>
@@ -484,20 +486,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Columns">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Left Inner Column">
-      <EffectLayer>
-        <Effect ref="45" name="Text" selected="1" startTime="59900" endTime="61650" palette="11"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Left Outer Column">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Right Inner Column">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Right Outer Column">
       <EffectLayer/>
     </Element>
   </ElementEffects>

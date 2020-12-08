@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2020.51</version>
+    <version>2020.53</version>
     <author/>
     <author-email/>
     <author-website/>
@@ -525,7 +525,7 @@
         <Effect ref="0" name="Color Wash" id="24" startTime="75900" endTime="76175" palette="4"/>
         <Effect ref="5" name="Strobe" id="25" startTime="76300" endTime="81175" palette="3"/>
         <Effect ref="5" name="Strobe" id="26" startTime="82775" endTime="87625" palette="3"/>
-        <Effect ref="0" name="Color Wash" selected="1" id="27" startTime="87650" endTime="87925" palette="4"/>
+        <Effect ref="0" name="Color Wash" id="27" startTime="87650" endTime="87925" palette="4"/>
         <Effect ref="0" name="Color Wash" id="28" startTime="89250" endTime="89525" palette="4"/>
         <Effect ref="0" name="Color Wash" id="29" startTime="90850" endTime="91125" palette="4"/>
         <Effect ref="0" name="Color Wash" id="30" startTime="125050" endTime="125150" palette="4"/>
@@ -1150,6 +1150,8 @@
         <Effect ref="17" name="Fire" id="4" startTime="50450" endTime="69875" palette="11"/>
         <Effect ref="50" name="Pinwheel" id="5" startTime="76300" endTime="81150" palette="1"/>
         <Effect ref="51" name="Pinwheel" id="6" startTime="82750" endTime="87600" palette="1"/>
+        <Effect ref="50" name="Pinwheel" selected="1" id="7" startTime="131300" endTime="136150" palette="1"/>
+        <Effect ref="51" name="Pinwheel" id="8" startTime="137750" endTime="142600" palette="1"/>
       </EffectLayer>
       <EffectLayer/>
       <EffectLayer/>
@@ -1167,6 +1169,8 @@
         <Effect ref="17" name="Fire" id="4" startTime="50450" endTime="69875" palette="11"/>
         <Effect ref="50" name="Pinwheel" id="5" startTime="76300" endTime="81150" palette="1"/>
         <Effect ref="51" name="Pinwheel" id="6" startTime="82750" endTime="87600" palette="1"/>
+        <Effect ref="50" name="Pinwheel" id="7" startTime="131300" endTime="136150" palette="1"/>
+        <Effect ref="51" name="Pinwheel" id="8" startTime="137750" endTime="142600" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Matrix Left">
