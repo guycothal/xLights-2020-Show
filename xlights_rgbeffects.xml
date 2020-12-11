@@ -77,7 +77,7 @@
       <ControllerConnection Port="6" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="115" name="Left ridge" Active="1" Dir="L" WorldPosX="-91.7882" WorldPosY="397.0655" WorldPosZ="73.0882" X2="-288.545593" Y2="-12.962555" Z2="-7.408218" versionNumber="5" StartChannel="&gt;Right Hip:1">
-      <ControllerConnection Protocol="ws2811" Port="9"/>
+      <ControllerConnection Protocol="ws2811" Port="10"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="115" name="Right Ridge" Active="1" WorldPosX="-78.9380" WorldPosY="396.2863" WorldPosZ="72.3080" X2="261.633911" Y2="2.081024" Z2="-0.383118" versionNumber="5" StartChannel="!Ethernet_Addict:1">
       <ControllerConnection Port="1" Protocol="ws2811"/>
@@ -86,7 +86,7 @@
       <ControllerConnection Protocol="ws2811" Port="2"/>
     </model>
     <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="106" name="Right Hip" Active="1" Dir="L" WorldPosX="-110.6929" WorldPosY="391.8683" WorldPosZ="176.6376" X2="221.542114" Y2="-69.610870" Z2="100.791153" versionNumber="5" StartChannel="&gt;Left hip:1">
-      <ControllerConnection Protocol="ws2811" Port="10"/>
+      <ControllerConnection Protocol="ws2811" Port="9"/>
     </model>
     <model StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" LayoutGroup="Default" parm1="1" DisplayAs="Vert Matrix" parm2="200" parm3="5" name="Right Outer Column" Active="1" Dir="R" StartSide="T" WorldPosX="106.3977" WorldPosY="254.4401" WorldPosZ="284.3987" ScaleX="1.4000" ScaleY="2.7000" ScaleZ="2.8000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Right Inner Column:1">
       <ControllerConnection Port="14" Protocol="ws2811"/>

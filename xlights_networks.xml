@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="GUYTOWER" GlobalFPPProxy="">
+<Networks computer="LAPTOP-F9FJKBDS" GlobalFPPProxy="">
   <Controller Id="1" Name="Ethernet_Garage" Description="" Type="Ethernet" Vendor="Falcon" Model="F16V2R" Variant="No Expansion Boards" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="1" IP="192.168.1.51" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
     <network ComPort="192.168.1.51" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="192.168.1.51" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
