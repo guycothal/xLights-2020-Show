@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-1CAVPC9" GlobalFPPProxy="">
+  <Controller Id="1" Name="F16 For Tree" Description="F16V3" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="No Expansion Boards" AutoSize="1" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.83" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.83" BaudRate="1" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="2" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="3" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="4" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="5" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="6" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="7" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="8" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="9" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="10" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="11" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="12" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="13" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="14" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.83" BaudRate="15" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="97" Name="F16 For Props" Description="F16V3" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="No Expansion Boards" AutoSize="1" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.84" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.84" BaudRate="97" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="98" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="99" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="100" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="101" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="102" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="103" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="104" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="105" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="106" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="107" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="108" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.84" BaudRate="109" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out1" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="410" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="411" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="412" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out2" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="420" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="421" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="422" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out3" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="430" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="431" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="432" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out4" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="440" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="441" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="442" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out5" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="450" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="451" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="452" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out6" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="460" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="461" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="462" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out7" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="470" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="471" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="472" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix4 Out8" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.81" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.81" BaudRate="480" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="481" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.81" BaudRate="482" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 1" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="510" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="511" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="512" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 2" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="520" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="521" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="522" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 3" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="530" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="531" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="532" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 4" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="540" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="541" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="542" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 5" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="550" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="551" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="552" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 6" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="560" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="561" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="562" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 7" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="570" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="571" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="572" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 8" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="580" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="581" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="582" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 9" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="590" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="591" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="592" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 10" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="600" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="601" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="602" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 11" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="610" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="611" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="612" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 12" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="620" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="621" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="622" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 13" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="630" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="631" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="632" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 14" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="640" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="641" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="642" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 15" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="650" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="651" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="652" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 16" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="660" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="661" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="662" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 17" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="670" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="671" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="672" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 18" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="680" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="681" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="682" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 19" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="690" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="691" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="692" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 20" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="700" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="701" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="702" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 21" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="710" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="711" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="712" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 22" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="720" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="721" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="722" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 23" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="730" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="731" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="732" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 24" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="740" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="741" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="742" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 25" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="750" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="751" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="752" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 26" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="760" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="761" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="762" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 27" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="770" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="771" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="772" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 28" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="780" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="781" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="782" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 29" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="790" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="791" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="792" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 30" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="800" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="801" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="802" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 31" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="810" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="811" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="812" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="16" Name="Pix16 32" Description="" Type="Ethernet" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.82" Protocol="E131" FPPProxy="" Priority="100" Expanded="FALSE">
+    <network ComPort="192.168.1.82" BaudRate="820" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="821" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="192.168.1.82" BaudRate="822" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <testpreset name="everything">
+    <channelr start="1" end="48120"/>
+  </testpreset>
+  <testpreset name="tree">
+    <channelr start="1" end="9600"/>
+  </testpreset>
+  <testpreset name="test all">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test">
+    <channelr start="0" end="10090"/>
+  </testpreset>
+  <testpreset name="test2"/>
+  <testpreset name="StringTest">
+    <channelr start="1200" end="1249"/>
+  </testpreset>
+</Networks>

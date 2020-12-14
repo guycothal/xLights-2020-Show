@@ -195,6 +195,8 @@
     <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Left Outer Column,Left Inner Column,Right Inner Column,Right Outer Column" name="Matrix Right"/>
     <modelGroup selected="0" name="Output 6" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Very Right Gutter,Very Right Backlight"/>
     <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="SnowTree Left,SnowTree Center,SnowTree Right,Left Outer Column,Left Inner Column,Right Inner Column,Right Outer Column" name="Martices"/>
+    <modelGroup selected="0" name="Roof and Gutters" models="" layout="minimalGrid" GridSize="400" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="House and Garage" models="" layout="minimalGrid" GridSize="400" LayoutGroup="Default"/>
   </modelGroups>
   <layoutGroups>
     <layoutGroup name="Garage" backgroundImage="d:\Desktop\xLights 2020\Capture.PNG"/>

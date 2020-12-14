@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="RICK-LAPTOP">
+  <network ComPort="192.168.101.2" BaudRate="100" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="101" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="102" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="103" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="104" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="105" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="106" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="107" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="108" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="109" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="110" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="111" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="112" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="113" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="114" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.101.2" BaudRate="115" NetworkType="E131" Description="F16V3" MaxChannels="512"/>
+  <network ComPort="192.168.0.102" BaudRate="200" NetworkType="E131" Description="F8PB Left Side" MaxChannels="512"/>
+  <network ComPort="192.168.0.102" BaudRate="201" NetworkType="E131" Description="F8PB Left Side" MaxChannels="512"/>
+  <network ComPort="192.168.0.102" BaudRate="202" NetworkType="E131" Description="F8PB Left Side" MaxChannels="512"/>
+  <network ComPort="192.168.0.102" BaudRate="203" NetworkType="E131" Description="F8PB Left Side" MaxChannels="512"/>
+  <network ComPort="192.168.0.103" BaudRate="300" NetworkType="E131" Description="F8PB Right Side" MaxChannels="512"/>
+  <network ComPort="192.168.0.103" BaudRate="301" NetworkType="E131" Description="F8PB Right Side" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="400" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="401" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="402" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="403" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="404" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="405" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="406" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="407" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="408" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="409" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="410" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="411" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="412" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="413" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="414" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="415" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="416" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="417" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="418" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="419" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="420" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="421" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="422" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="423" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="424" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="425" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <network ComPort="192.168.0.104" BaudRate="426" NetworkType="E131" Description="Pocket Scroller-P10" MaxChannels="512"/>
+  <testpreset name="Column-left">
+    <channelr start="8394" end="8896"/>
+  </testpreset>
+  <testpreset name="Column-right">
+    <channelr start="8394" end="8896"/>
+    <channelr start="10730" end="11224"/>
+  </testpreset>
+  <testpreset name="Bethlehem star">
+    <channelr start="10367" end="10720"/>
+  </testpreset>
+</Networks>
